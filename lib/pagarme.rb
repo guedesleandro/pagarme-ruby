@@ -11,6 +11,7 @@ require_relative 'pagarme/transaction'
 require_relative 'pagarme/card'
 require_relative 'pagarme/plan'
 require_relative 'pagarme/bank_account'
+require_relative 'pagarme/recipient'
 require_relative 'pagarme/request'
 require_relative 'pagarme/errors'
 
